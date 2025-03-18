@@ -386,8 +386,8 @@ class Launcher(object):
             logger.error(traceback.format_exc())
             logger.error(e)
             logger.error("to get more information, type : ipasuite log")
-        if os.path.exists('./results/5.2-ipanemap-temp'):
-            shutil.rmtree('./results/5.2-ipanemap-temp')
+#        if os.path.exists('./results/5.2-ipanemap-temp'):
+#            shutil.rmtree('./results/5.2-ipanemap-temp')
 
     def unlock(self):
         """
