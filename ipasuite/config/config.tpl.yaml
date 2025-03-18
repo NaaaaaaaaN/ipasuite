@@ -451,6 +451,6 @@ folders:
   aggreact-ipanemap: 4.aggregated-reactivity
   ipanemap-config: 5.1-ipanemap-config
   ipanemap-out: 5.2-ipanemap-temp
-  structure: 5.2-structure
-  varna: 5.3-varna
-  footprint: 5.4-footprint
+  structure: 5.3-structure
+  varna: 5.4-varna
+  footprint: 5.5-footprint
