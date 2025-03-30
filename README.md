@@ -24,3 +24,7 @@ If you use this workflow in a paper, don't forget to give credits to the authors
 - RNAFold
 - VARNA
 - Custom scripts for file conversion, reactivity normalization and aggregation
+
+## Citation
+
+Please cite: P. Hardouin, N. Pan, F-X. Lyonnet du Moutier, N. Chamond, Y. Ponty, S. Will, B. Sargueil, IPANEMAP Suite: a pipeline for probing-informed RNA structure modeling, NAR Genomics and Bioinformatics(2025), [Link](https://academic.oup.com/nargab/article/7/1/lqaf028/8093145?utm_source=advanceaccess&utm_campaign=nargab&utm_medium=email).
